@@ -1,8 +1,8 @@
 # Flask Demo
 
-- (Requirments)[#requirmments]
-- (Installation)[#installation]
-- (Execution)[#execution]
+- [Requirments](#requirmments)
+- [Installation](#installation)
+- [Execution](#execution)
 
 
 ## Requirmments
